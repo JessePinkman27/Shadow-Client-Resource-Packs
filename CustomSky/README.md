@@ -1,1 +1,1 @@
-# Custom Sky resoure packs that work with Shadow Client!
+# Custom Sky Resource Packs that work with Shadow Client!
